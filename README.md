@@ -4,7 +4,7 @@
 
 
 ```math
-\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.4;background: url('https://github.com/chandlerroth/chandlerroth/assets/894178/1e185c44-7a6f-46ce-a1ce-1f8fb8742da2'); background-position: center; background-size: cover;]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.2;background: url('https://github.com/chandlerroth/chandlerroth/assets/894178/1e185c44-7a6f-46ce-a1ce-1f8fb8742da2'); background-position: center; background-size: cover;]{x0000}$}
 ```
 
 ```math
