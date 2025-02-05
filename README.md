@@ -8,5 +8,4 @@ I'm currently working on:
 
 Shoot me a DM if you want to catch up!
 
-<img src="https://github.com/user-attachments/assets/c713407b-9ac0-413a-8bd9-524b38f5ac62" width="50" alt="VGuAZNdkPUpEY">
-
+<img src="https://github.com/user-attachments/assets/dc78131d-f065-46ca-a983-48ffd02c49fb" width="80" alt="VGuAZNdkPUpEY">
