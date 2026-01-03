@@ -1,4 +1,4 @@
-Hi, I'm Chandler – a Software Engineer and Founder obsessed with building scalable products that humans love.
+Hi, I'm Chandler – a Software Engineer and Founder obsessed with building products that humans love.
 
 I'm currently working on:
 - 🍇 [gather.town](https://gather.town): AI deep research for your company data
