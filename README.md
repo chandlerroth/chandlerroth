@@ -1,7 +1,6 @@
 Hi, I'm Chandler – a Software Engineer and Founder obsessed with building products that humans love.
 
 I'm currently working on:
-- 🍇 [gather.town](https://gather.town): AI deep research for your company data
 - 🏙️ [enok.co](https://enok.co): next-gen dev consultancy
 
 Shoot me a DM if you want to catch up!
