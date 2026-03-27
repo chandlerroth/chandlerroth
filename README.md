@@ -1,7 +1,7 @@
 Hi, I'm Chandler – a Founder and Software Engineer obsessed with building products that humans love.
 
 I'm currently working on:
-- 🏙️ [enok.co](https://enok.co): next-gen dev consultancy (since 2017)
+- 🏙️ [enok.co](https://enok.co): next-gen dev consultancy
 
 Shoot me a DM if you want to catch up!
 
